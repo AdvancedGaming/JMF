@@ -8,13 +8,6 @@
     "start-tsc": "npx tsc && node dist/index",
     "compile": "npx tsc"
   },
-  {
-  "name": "JMF",
-  "description": "a really cool app",
-  "version": "1.0.0",
-  "engines": {
-    "node": "16.x"
-  },
   "author": "",
   "license": "UNLICENSED",
   "type": "module",
